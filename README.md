@@ -8,3 +8,5 @@ Pipelining is a form of parallelism where tasks are solved faster by having mult
 Latency is the time it takes for a process to go from start to finish
 
 throughput is the rate at which a system can finish processes.
+
+Caching is a general problem-solving approach that provides a much more flexible way of dealing with certain resource tradeoffs.
