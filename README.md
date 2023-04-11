@@ -10,3 +10,6 @@ Latency is the time it takes for a process to go from start to finish
 throughput is the rate at which a system can finish processes.
 
 Caching is a general problem-solving approach that provides a much more flexible way of dealing with certain resource tradeoffs.
+
+
+Interface is an abstraction that manages complexity by defining how to interact with a process while hiding how the process actually gets done.
