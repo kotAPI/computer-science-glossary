@@ -16,3 +16,10 @@ Interface is an abstraction that manages complexity by defining how to interact 
 
 
 Eulerian path - A path through a graph that visits every edge once is called an Eulerian path. Eulerian paths are named after Leonhard Euler, who is credited with first solving the puzzle of the seven bridges of Königsberg. if a graph has more than two vertices with an odd number of connected edges, there's no way a Eulerian path can exist.
+
+
+
+## AI glossary
+
+Autonomy - The ability to perform tasks in complex environments without constant guidance by a user.
+Adaptivity - The ability to improve performance by learning from experience.
